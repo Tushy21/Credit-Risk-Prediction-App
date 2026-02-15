@@ -358,8 +358,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@Tushy21](https://github.com/Tushy21)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/tushar-chauhan-10009b264/
+- Email: chauhantushar2005@gmail.com
 
 **Project Link**: [https://github.com/Tushy21/Credit-Risk-Prediction-App](https://github.com/Tushy21/Credit-Risk-Prediction-App)
 
