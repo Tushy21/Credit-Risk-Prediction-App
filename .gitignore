@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore Mac Junk
+.DS_Store
+
+# Ignore dataset folder
+Credit Risk Prediction Web App copy/backend/data/
+
